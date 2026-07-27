@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.obj
+*.tmp
+*.log
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.csproj
+
+# OS files
+Thumbs.db
+.DS_Store
